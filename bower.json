@@ -1,0 +1,23 @@
+{
+  "name": "jquery-scrolla",
+  "description": "plugin for animate elements on scroll",
+  "main": "dist/*",
+  "authors": [
+    "Max Zhurkin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "animate",
+    "animate.css",
+    "jquery",
+    "scroll"
+  ],
+  "homepage": "https://github.com/maximzhurkin/jquery-scrolla",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
